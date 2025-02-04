@@ -40,6 +40,8 @@ Cortex automates the analysis of observables and actions, supporting seamless in
   [Learn More](https://cuckoosandbox.org/)  
 - **VirusTotal**: Aggregates data from antivirus engines for file and URL analysis.  
   [Explore VirusTotal](https://www.virustotal.com/)
+- **Hudson Rock**: Free cybercrime intelligence toolset to check if a domain or email address was compromised in a global Infostealer malware attack.
+  [Learn More](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 ---
 
